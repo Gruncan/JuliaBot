@@ -1,0 +1,3 @@
+[submodule "Discord.jl"]
+	path = libs/Discord.jl
+	url = git@github.com:Xh4H/Discord.jl.git
